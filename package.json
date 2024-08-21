@@ -10,7 +10,8 @@
   "repository": "https://github.com/blokugrandine/it-mokymai.git",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "vuepress build docs && cd docs/.vuepress/dist && git init && git add -A && git commit -m 'deploy' && git push -f git@github.com:blokugrandine/it-mokymai.git master:gh-pages"
   },
   "license": "MIT",
   "devDependencies": {
