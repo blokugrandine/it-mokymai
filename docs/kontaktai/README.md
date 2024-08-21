@@ -1,3 +1,3 @@
 # MB Blokų grandinė
 
-El. paštas: blokugrandine@gmail.com
+Su mumis galite susisiekti el. paštu: blokugrandine@gmail.com
